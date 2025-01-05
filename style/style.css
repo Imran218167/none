@@ -1,0 +1,23 @@
+nav > ul > li{
+    /* display: inline; */
+/* margin-right: 15px; */
+
+}
+li > a{
+    /* text-decoration: none; */
+}
+li{
+    /* display: inline; */
+    margin-right: 15px;
+}
+a{
+    /* text-decoration: none ; */
+}
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
+figcaption{
+    text-size-adjust: bold;
+    text-align: 100px;
+}
